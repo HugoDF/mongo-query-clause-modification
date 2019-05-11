@@ -1,0 +1,32 @@
+{
+  "name": "mongo-query-clause-modification",
+  "version": "1.0.0",
+  "description": "Real-world recursion: MongoDB nested query clause addition and removal",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "jest-cli": "^24.8.0",
+    "xo": "^0.24.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "lint": "xo",
+    "format": "xo --fix"
+  },
+  "xo": {
+    "prettier": true,
+    "space": true,
+    "rules": {},
+    "globals": [
+      "describe",
+      "test",
+      "expect",
+      "jest"
+    ]
+  },
+  "keywords": [],
+  "author": "Hugo Di Francesco",
+  "license": "MIT"
+}
