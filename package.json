@@ -7,7 +7,7 @@
   "dependencies": {},
   "devDependencies": {
     "jest": "^24.8.0",
-    "jest-cli": "^24.8.0",
+    "jest-cli": "^25.5.2",
     "xo": "^0.24.0"
   },
   "scripts": {
