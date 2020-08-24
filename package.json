@@ -6,7 +6,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "jest": "^24.8.0",
+    "jest": "^26.4.2",
     "jest-cli": "^24.8.0",
     "xo": "^0.24.0"
   },
